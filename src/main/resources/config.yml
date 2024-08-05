@@ -1,6 +1,0 @@
-#save-method options: YML , SQLite
-save-method: YML
-
-SQLite-DB-path:
-
-vault-support: false

@@ -1,9 +1,0 @@
-name: SimplePrefixManager
-version: '${project.version}'
-main: org.vervecraft.mocha.simpleprefixmanager.SimplePrefixManager
-api-version: '1.21'
-commands:
-  prefix:
-    usage: /prefix (enable | disable | (custom prefix goes here))
-    permission: SPM.prefix
-
