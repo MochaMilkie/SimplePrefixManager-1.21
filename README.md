@@ -5,6 +5,8 @@ SimplePrefixManager allows players to assign custom prefixes, and adds hex color
 - Manage player prefixes with simple commands
 - Lightweight and efficient
 - PlaceholderAPI support ("SPM_prefix")
+- SQLite Support (coming soon)
+- Vault Support (coming soon)
 
 ## Installation
 1. Download the latest release from the [releases page](https://github.com/MochaMilkie/SimplePrefixManager-1.21/releases).
