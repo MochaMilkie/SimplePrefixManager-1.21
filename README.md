@@ -14,8 +14,8 @@ SimplePrefixManager allows players to assign custom prefixes, and adds hex color
 3. Restart your server to load the plugin.
 
 ## Permissions
-SPM.prefix | Allows use of, disabling and enabling of a prefix.
-SPM.color | Allows use of hex color codes in prefix, and chat.
+- SPM.prefix | Allows use of, disabling and enabling of a prefix.
+- SPM.color | Allows use of hex color codes in prefix, and chat.
 
 
 ## Contributing
