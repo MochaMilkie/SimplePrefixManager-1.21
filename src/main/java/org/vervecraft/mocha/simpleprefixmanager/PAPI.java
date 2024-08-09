@@ -29,6 +29,11 @@ public class PAPI extends PlaceholderExpansion {
     public @NotNull String getVersion() {
         return "v1.1";
     }
+
+    @Override
+    public boolean persist(){
+        return true;
+    }
     @Override
     public String onPlaceholderRequest(Player player , @NotNull String identifier){
         if(identifier.equalsIgnoreCase("prefix") && player != null){
